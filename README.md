@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ranjanipandian02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T5PMmpD4TVLpmrf-ZXw1vngnsT6NiwoR/view?usp=drivesdk](https://drive.google.com/file/d/1T5PMmpD4TVLpmrf-ZXw1vngnsT6NiwoR/view?usp=drivesdk)
+- 📄 Know about my experiences kindly go through my Resume [https://drive.google.com/file/d/1T5PMmpD4TVLpmrf-ZXw1vngnsT6NiwoR/view?usp=drivesdk](https://drive.google.com/file/d/1T5PMmpD4TVLpmrf-ZXw1vngnsT6NiwoR/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
