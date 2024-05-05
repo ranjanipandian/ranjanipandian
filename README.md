@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm RANJANI P</h1>
-<h3 align="center">A passionate Python developer and Programmer from India</h3>
+<h3 align="center">A passionate Programmer and Coder from India</h3>
 <img align="right" width="400" src="https://tse4.mm.bing.net/th?id=OIP.Wwh0ZgRwyV2FAQ8oJSgUmwHaGN&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanipandian&label=Profile%20views&color=0e75b6&style=flat" alt="ranjanipandian" /> </p>
