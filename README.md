@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanipandian&label=Profile%20views&color=0e75b6&style=flat" alt="ranjanipandian" /> </p>
 
 
-- 🌱 I’m currently learning **DSA Concepts and OOPS in Java**
+- 🌱 I’m currently learning **DSA Concepts and JavaScript**
 
 - 📫 How to reach me **ranjanipandian02@gmail.com**
 
