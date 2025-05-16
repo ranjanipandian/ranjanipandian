@@ -65,6 +65,9 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://www.eclipse.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse IDE" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" alt="Microsoft Word" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Microsoft Excel" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" alt="PowerPoint" width="40" height="40"/></a>
 </p>
 
 ---
